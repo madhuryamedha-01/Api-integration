@@ -35,3 +35,5 @@ This project is a simple responsive webpage that fetches and displays data from 
 
 
 ## OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/af2aa1c0-ab3c-4340-b749-8cb6313e7b63" />
